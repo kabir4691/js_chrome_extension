@@ -1,6 +1,6 @@
 {
-  "name": "AltCampus New Tab Extension",
-  "description" : "AltCampus Todo List Chrome Extension",
+  "name": "New Tab Todo Extension",
+  "description" : "Todo List Chrome Extension",
   "version": "1.0.0",
   "manifest_version": 2,
   "chrome_url_overrides":{
